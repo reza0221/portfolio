@@ -1,0 +1,1 @@
+The following portfolio is an assignment given by Govokasi Indonesia with Objective and Key Results in the form of Human Resources Information System Design. Specifically, I designed the database and provided a description of its EER Diagram.
