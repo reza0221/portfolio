@@ -35,3 +35,21 @@ The following portfolio is an assignment given by Govokasi Indonesia with Object
 #### - Support internal hiring for logistics hubs, production lines, and office operations in South Jakarta and Jambi.
 #### - Swimlane Flowchart (Process Design) & EER (Database Design).
 
+### Based on the Ideas & Execution Plan that the business context and assumptions of PT. Rasaprima Sukses Makmur will expand its business to new segments and locations, then the relevant positions that will be open vacancies are:
+| Area | Segment Focus | Role Suggestions | Placements | Total Candidates |
+| ---- | ------------- | ---------------- | ---------- | ---------------- |
+| South Jakarta | OEM/Maklon (HQ) | Production Manager, QA Officer, Procurement, HR Admin | South Jakarta | 20 |
+| Central Jakarta | Horeca Segment | Key Account Executive, Sales Manager, Customer Service | South Jakarta | 15 |
+| North Jakarta | Distribution Hub | Warehouse Staff, Logistics Coordinator | South Jakarta | 10 |
+| East Jakarta | OEM Expansion | QC Staff, Machine Operator | South Jakarta | 10 |
+| West Jakarta | OEM Expansion | Production Support, Inventory Staff | South Jakarta | 10 |
+| Jambi | OEM Entry Point | Field Sales, Junior Technician | Jambi | 15 |
+
+### For EER Diagram, here are the cardinality between tables.
+#### - 1 location many job vacancies.
+#### - 1 hr user will manage many job vacancies and interviews.
+#### - 1 interview type (online) for many interviews.
+#### - 1 job vacancy many applications.
+#### - 1 job category many job vacancies.
+#### - 1 application many interviews.
+#### - 1 applicant only for 1 application.
