@@ -1,4 +1,4 @@
-The following portfolio is an assignment given by Govokasi Indonesia with Objective and Key Results in the form of Human Resources Information System (HRIS) Design. Specifically, I designed the database and provided a description of its EER Diagram.
+The following portfolio is an assignment given by Govokasi Indonesia with the Objective and Key Result of Human Resource Information System (HRIS) Design. Specifically, I designed the database and EER Diagram for the internal hiring process based on the assumptions and business context of PT. Rasaprima Sukses Makmur.
 
 ### Company Profile.
 #### - Company Name: PT. Rasaprima Sukses Makmur
